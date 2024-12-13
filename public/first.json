@@ -1,0 +1,2525 @@
+[
+  {
+    "id": "8b532fc4-25fa-464b-8ca0-dc9b2bbb759e",
+    "bikeName": "justo",
+    "bikeSlogan": "orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "mainYear": 2008,
+    "price": 2061,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "445kg" },
+      { "label": "Dimensions", "value": "31x67x75cm" },
+      { "label": "Power", "value": "90hp" },
+      { "label": "Top speed", "value": "18km/h" },
+      { "label": "Tank capacity", "value": "19l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "cf1ee16d-f162-4696-a48b-8181b7f1b3eb",
+    "bikeName": "quam turpis",
+    "bikeSlogan": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",
+    "bikeDesc": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "mainYear": 2008,
+    "price": 1474,
+    "oldPrice": 7558,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "958kg" },
+      { "label": "Dimensions", "value": "53x49x91cm" },
+      { "label": "Power", "value": "53hp" },
+      { "label": "Top speed", "value": "89km/h" },
+      { "label": "Tank capacity", "value": "78l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "9b3acedc-1b08-473a-89b4-51db92c40d2c",
+    "bikeName": "sollicitudin",
+    "bikeSlogan": "id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi",
+    "bikeDesc": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "mainYear": 2010,
+    "price": 3817,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "87kg" },
+      { "label": "Dimensions", "value": "59x63x90cm" },
+      { "label": "Power", "value": "13hp" },
+      { "label": "Top speed", "value": "62km/h" },
+      { "label": "Tank capacity", "value": "38l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "e09d8a91-9424-46d0-b3df-8dbe3c42e888",
+    "bikeName": "cras mi pede",
+    "bikeSlogan": "sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl",
+    "bikeDesc": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "mainYear": 1998,
+    "price": 3513,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "649kg" },
+      { "label": "Dimensions", "value": "43x37x3cm" },
+      { "label": "Power", "value": "11hp" },
+      { "label": "Top speed", "value": "20km/h" },
+      { "label": "Tank capacity", "value": "37l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "2a7e384a-e8cd-43a8-9437-4e4565e37756",
+    "bikeName": "felis ut at",
+    "bikeSlogan": "proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",
+    "bikeDesc": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "mainYear": 2013,
+    "price": 2319,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "121kg" },
+      { "label": "Dimensions", "value": "98x38x23cm" },
+      { "label": "Power", "value": "50hp" },
+      { "label": "Top speed", "value": "86km/h" },
+      { "label": "Tank capacity", "value": "95l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "3e0d76ad-ac12-4ce2-8c41-4d2caf67e6f2",
+    "bikeName": "ultrices posuere",
+    "bikeSlogan": "faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non",
+    "bikeDesc": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "mainYear": 2012,
+    "price": 2058,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "964kg" },
+      { "label": "Dimensions", "value": "91x3x82cm" },
+      { "label": "Power", "value": "69hp" },
+      { "label": "Top speed", "value": "84km/h" },
+      { "label": "Tank capacity", "value": "58l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "438033d4-740b-4776-8019-b2924249d5a9",
+    "bikeName": "sem",
+    "bikeSlogan": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus",
+    "bikeDesc": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "mainYear": 2010,
+    "price": 3667,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "119kg" },
+      { "label": "Dimensions", "value": "6x31x93cm" },
+      { "label": "Power", "value": "25hp" },
+      { "label": "Top speed", "value": "54km/h" },
+      { "label": "Tank capacity", "value": "44l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "dca2770b-acf9-4103-a58a-b24a3ba2473e",
+    "bikeName": "tortor",
+    "bikeSlogan": "amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+    "bikeDesc": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 2011,
+    "price": 2094,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "687kg" },
+      { "label": "Dimensions", "value": "39x56x53cm" },
+      { "label": "Power", "value": "52hp" },
+      { "label": "Top speed", "value": "21km/h" },
+      { "label": "Tank capacity", "value": "97l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "3fbb712f-8ae7-4129-86fd-9a1c6edc02c9",
+    "bikeName": "est quam pharetra",
+    "bikeSlogan": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus",
+    "bikeDesc": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "mainYear": 2000,
+    "price": 2499,
+    "oldPrice": 9699,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [],
+    "info": [
+      { "label": "Weight", "value": "908kg" },
+      { "label": "Dimensions", "value": "31x30x99cm" },
+      { "label": "Power", "value": "3hp" },
+      { "label": "Top speed", "value": "65km/h" },
+      { "label": "Tank capacity", "value": "54l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "db1ffd96-5688-4a13-ad2c-b002c4e71ccc",
+    "bikeName": "pede",
+    "bikeSlogan": "bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus",
+    "bikeDesc": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "mainYear": 2009,
+    "price": 1913,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "549kg" },
+      { "label": "Dimensions", "value": "87x70x85cm" },
+      { "label": "Power", "value": "61hp" },
+      { "label": "Top speed", "value": "65km/h" },
+      { "label": "Tank capacity", "value": "50l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "e73b6b87-34a0-4fdb-a6a3-a1bbc9ffe518",
+    "bikeName": "enim sit",
+    "bikeSlogan": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam",
+    "bikeDesc": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "mainYear": 2003,
+    "price": 2335,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "610kg" },
+      { "label": "Dimensions", "value": "48x30x54cm" },
+      { "label": "Power", "value": "86hp" },
+      { "label": "Top speed", "value": "34km/h" },
+      { "label": "Tank capacity", "value": "49l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "a25c72a7-bc82-40ee-b327-58802958610c",
+    "bikeName": "pellentesque",
+    "bikeSlogan": "condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit",
+    "bikeDesc": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "mainYear": 1988,
+    "price": 2909,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "52kg" },
+      { "label": "Dimensions", "value": "24x13x30cm" },
+      { "label": "Power", "value": "7hp" },
+      { "label": "Top speed", "value": "57km/h" },
+      { "label": "Tank capacity", "value": "79l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "fbb2e070-e1a7-45fb-ab92-221b8623cb9a",
+    "bikeName": "gravida sem",
+    "bikeSlogan": "sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis",
+    "bikeDesc": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "mainYear": 2004,
+    "price": 3342,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "570kg" },
+      { "label": "Dimensions", "value": "59x47x53cm" },
+      { "label": "Power", "value": "48hp" },
+      { "label": "Top speed", "value": "68km/h" },
+      { "label": "Tank capacity", "value": "14l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "ceb61901-6c26-4ed5-a884-bf5f08ae4183",
+    "bikeName": "nulla tellus",
+    "bikeSlogan": "metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget",
+    "bikeDesc": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "mainYear": 1994,
+    "price": 1865,
+    "oldPrice": 7510,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "176kg" },
+      { "label": "Dimensions", "value": "41x76x20cm" },
+      { "label": "Power", "value": "46hp" },
+      { "label": "Top speed", "value": "10km/h" },
+      { "label": "Tank capacity", "value": "31l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "3cebc24b-0b3a-4c2b-83ce-ce1c8e404c85",
+    "bikeName": "sed interdum venenatis",
+    "bikeSlogan": "lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed",
+    "bikeDesc": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "mainYear": 2010,
+    "price": 3553,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "927kg" },
+      { "label": "Dimensions", "value": "81x49x38cm" },
+      { "label": "Power", "value": "49hp" },
+      { "label": "Top speed", "value": "89km/h" },
+      { "label": "Tank capacity", "value": "59l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "aa3549ad-dfd2-45c3-a35b-7e3cd77ba57d",
+    "bikeName": "urna pretium",
+    "bikeSlogan": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
+    "bikeDesc": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "mainYear": 2001,
+    "price": 2164,
+    "oldPrice": 5714,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "811kg" },
+      { "label": "Dimensions", "value": "83x50x79cm" },
+      { "label": "Power", "value": "53hp" },
+      { "label": "Top speed", "value": "0km/h" },
+      { "label": "Tank capacity", "value": "7l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "5464e010-8c26-4e1f-82d4-b54afbe0eab4",
+    "bikeName": "vitae",
+    "bikeSlogan": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla",
+    "bikeDesc": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "mainYear": 1996,
+    "price": 1438,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "510kg" },
+      { "label": "Dimensions", "value": "64x99x90cm" },
+      { "label": "Power", "value": "16hp" },
+      { "label": "Top speed", "value": "77km/h" },
+      { "label": "Tank capacity", "value": "4l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "fcd27cab-2ba0-4fdf-b63e-3dd6854291f0",
+    "bikeName": "donec",
+    "bikeSlogan": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "mainYear": 2009,
+    "price": 1819,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "395kg" },
+      { "label": "Dimensions", "value": "21x10x34cm" },
+      { "label": "Power", "value": "82hp" },
+      { "label": "Top speed", "value": "75km/h" },
+      { "label": "Tank capacity", "value": "28l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "f53f0d05-6cbf-498c-9811-d46f017dae44",
+    "bikeName": "iaculis congue",
+    "bikeSlogan": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci",
+    "bikeDesc": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "mainYear": 2002,
+    "price": 1347,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [],
+    "info": [
+      { "label": "Weight", "value": "687kg" },
+      { "label": "Dimensions", "value": "35x35x75cm" },
+      { "label": "Power", "value": "19hp" },
+      { "label": "Top speed", "value": "19km/h" },
+      { "label": "Tank capacity", "value": "50l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "c512e0db-dd58-44ff-9896-fed56799ac62",
+    "bikeName": "purus aliquet",
+    "bikeSlogan": "lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque",
+    "bikeDesc": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "mainYear": 1997,
+    "price": 1070,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "92kg" },
+      { "label": "Dimensions", "value": "8x53x11cm" },
+      { "label": "Power", "value": "5hp" },
+      { "label": "Top speed", "value": "58km/h" },
+      { "label": "Tank capacity", "value": "22l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "bcc6ba8b-8f74-498e-acf5-6fa0d4134a54",
+    "bikeName": "donec semper",
+    "bikeSlogan": "id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget",
+    "bikeDesc": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "mainYear": 1997,
+    "price": 3404,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "696kg" },
+      { "label": "Dimensions", "value": "79x98x48cm" },
+      { "label": "Power", "value": "36hp" },
+      { "label": "Top speed", "value": "86km/h" },
+      { "label": "Tank capacity", "value": "82l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "cf76c32d-5e81-49da-8a71-3779d7c0fd93",
+    "bikeName": "in magna",
+    "bikeSlogan": "hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla",
+    "bikeDesc": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "mainYear": 1992,
+    "price": 1887,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "675kg" },
+      { "label": "Dimensions", "value": "22x48x5cm" },
+      { "label": "Power", "value": "7hp" },
+      { "label": "Top speed", "value": "82km/h" },
+      { "label": "Tank capacity", "value": "48l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "2f646371-1b25-4ea8-94dd-734edf7b3743",
+    "bikeName": "praesent",
+    "bikeSlogan": "rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",
+    "bikeDesc": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainYear": 2009,
+    "price": 2446,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "384kg" },
+      { "label": "Dimensions", "value": "92x20x88cm" },
+      { "label": "Power", "value": "50hp" },
+      { "label": "Top speed", "value": "27km/h" },
+      { "label": "Tank capacity", "value": "24l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "d75f9192-2ea0-4606-8823-cb197e153fde",
+    "bikeName": "nisi nam ultrices",
+    "bikeSlogan": "integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem",
+    "bikeDesc": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "mainYear": 1985,
+    "price": 2457,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "383kg" },
+      { "label": "Dimensions", "value": "6x85x51cm" },
+      { "label": "Power", "value": "50hp" },
+      { "label": "Top speed", "value": "36km/h" },
+      { "label": "Tank capacity", "value": "3l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "29642295-d9d7-4db0-9169-cc09f7f1bff1",
+    "bikeName": "fusce posuere felis",
+    "bikeSlogan": "lectus pellentesque at nulla suspendisse potenti cras in purus eu magna",
+    "bikeDesc": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "mainYear": 2010,
+    "price": 1478,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [],
+    "info": [
+      { "label": "Weight", "value": "7kg" },
+      { "label": "Dimensions", "value": "37x1x88cm" },
+      { "label": "Power", "value": "56hp" },
+      { "label": "Top speed", "value": "6km/h" },
+      { "label": "Tank capacity", "value": "5l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "8599dfd1-b63a-4383-ba42-396c7acda100",
+    "bikeName": "aliquet",
+    "bikeSlogan": "pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac",
+    "bikeDesc": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "mainYear": 1992,
+    "price": 1751,
+    "oldPrice": 7820,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "259kg" },
+      { "label": "Dimensions", "value": "11x79x64cm" },
+      { "label": "Power", "value": "57hp" },
+      { "label": "Top speed", "value": "73km/h" },
+      { "label": "Tank capacity", "value": "43l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "531e8864-9a3b-4ab8-a046-82fb973aad42",
+    "bikeName": "potenti cras",
+    "bikeSlogan": "eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut",
+    "bikeDesc": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "mainYear": 1992,
+    "price": 2224,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "580kg" },
+      { "label": "Dimensions", "value": "69x84x86cm" },
+      { "label": "Power", "value": "30hp" },
+      { "label": "Top speed", "value": "65km/h" },
+      { "label": "Tank capacity", "value": "12l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "014b12e7-2377-4109-8f5e-9ae8bb16eae0",
+    "bikeName": "rhoncus sed",
+    "bikeSlogan": "et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent",
+    "bikeDesc": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "mainYear": 2004,
+    "price": 2559,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "873kg" },
+      { "label": "Dimensions", "value": "12x76x26cm" },
+      { "label": "Power", "value": "14hp" },
+      { "label": "Top speed", "value": "8km/h" },
+      { "label": "Tank capacity", "value": "31l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "9afd0e20-32e9-4a22-a6bc-a3df29a5186f",
+    "bikeName": "eros suspendisse",
+    "bikeSlogan": "vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+    "bikeDesc": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "mainYear": 1997,
+    "price": 2052,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "375kg" },
+      { "label": "Dimensions", "value": "66x24x27cm" },
+      { "label": "Power", "value": "48hp" },
+      { "label": "Top speed", "value": "0km/h" },
+      { "label": "Tank capacity", "value": "88l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "d5506bad-c56f-40a1-9387-33c9a0a1a991",
+    "bikeName": "vestibulum ante ipsum",
+    "bikeSlogan": "pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla",
+    "bikeDesc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "mainYear": 1997,
+    "price": 2511,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "204kg" },
+      { "label": "Dimensions", "value": "62x50x66cm" },
+      { "label": "Power", "value": "31hp" },
+      { "label": "Top speed", "value": "65km/h" },
+      { "label": "Tank capacity", "value": "74l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "a180fe63-7713-4876-a8e4-37499c937bdc",
+    "bikeName": "ante vestibulum",
+    "bikeSlogan": "congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",
+    "bikeDesc": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "mainYear": 2011,
+    "price": 3959,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "922kg" },
+      { "label": "Dimensions", "value": "83x11x92cm" },
+      { "label": "Power", "value": "9hp" },
+      { "label": "Top speed", "value": "0km/h" },
+      { "label": "Tank capacity", "value": "30l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "6900d015-1b11-447c-826d-ca45674649d7",
+    "bikeName": "justo sit amet",
+    "bikeSlogan": "at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+    "bikeDesc": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "mainYear": 1985,
+    "price": 2286,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "18kg" },
+      { "label": "Dimensions", "value": "83x6x78cm" },
+      { "label": "Power", "value": "50hp" },
+      { "label": "Top speed", "value": "38km/h" },
+      { "label": "Tank capacity", "value": "1l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "c8ba9dcd-21ce-4e1b-95bb-f5e5465ead10",
+    "bikeName": "dolor vel",
+    "bikeSlogan": "molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst",
+    "bikeDesc": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "mainYear": 1994,
+    "price": 3732,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "492kg" },
+      { "label": "Dimensions", "value": "84x16x90cm" },
+      { "label": "Power", "value": "43hp" },
+      { "label": "Top speed", "value": "98km/h" },
+      { "label": "Tank capacity", "value": "79l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "4326da15-e2fa-4ebb-96d3-72f9c74af6ad",
+    "bikeName": "aliquet at feugiat",
+    "bikeSlogan": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere",
+    "bikeDesc": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "mainYear": 1984,
+    "price": 3334,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "955kg" },
+      { "label": "Dimensions", "value": "37x91x78cm" },
+      { "label": "Power", "value": "7hp" },
+      { "label": "Top speed", "value": "68km/h" },
+      { "label": "Tank capacity", "value": "96l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "82c5ecbc-bad0-48c5-b6a3-fdaef5b45293",
+    "bikeName": "nulla quisque",
+    "bikeSlogan": "in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "mainYear": 2005,
+    "price": 3477,
+    "oldPrice": 9827,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "227kg" },
+      { "label": "Dimensions", "value": "67x7x14cm" },
+      { "label": "Power", "value": "10hp" },
+      { "label": "Top speed", "value": "5km/h" },
+      { "label": "Tank capacity", "value": "5l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "af25665a-ee60-4394-898b-c19e16dae159",
+    "bikeName": "justo maecenas",
+    "bikeSlogan": "metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "bikeDesc": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "mainYear": 1982,
+    "price": 2767,
+    "oldPrice": 6550,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "866kg" },
+      { "label": "Dimensions", "value": "36x76x16cm" },
+      { "label": "Power", "value": "54hp" },
+      { "label": "Top speed", "value": "93km/h" },
+      { "label": "Tank capacity", "value": "67l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "b2e72199-bc77-4e0d-84c1-c4583dcaa85b",
+    "bikeName": "nibh",
+    "bikeSlogan": "ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis",
+    "bikeDesc": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "mainYear": 2009,
+    "price": 1434,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "653kg" },
+      { "label": "Dimensions", "value": "91x17x83cm" },
+      { "label": "Power", "value": "69hp" },
+      { "label": "Top speed", "value": "30km/h" },
+      { "label": "Tank capacity", "value": "30l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "20d3d63b-24b5-474f-9a07-59ad7d6b40c8",
+    "bikeName": "cum",
+    "bikeSlogan": "mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero",
+    "bikeDesc": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "mainYear": 2013,
+    "price": 1498,
+    "oldPrice": 5632,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [],
+    "info": [
+      { "label": "Weight", "value": "665kg" },
+      { "label": "Dimensions", "value": "29x60x15cm" },
+      { "label": "Power", "value": "68hp" },
+      { "label": "Top speed", "value": "34km/h" },
+      { "label": "Tank capacity", "value": "32l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "69cb6ba1-16e1-4e25-b0fb-3af3e3bbc9a9",
+    "bikeName": "elementum eu interdum",
+    "bikeSlogan": "ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in",
+    "bikeDesc": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "mainYear": 2009,
+    "price": 1789,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "853kg" },
+      { "label": "Dimensions", "value": "45x51x18cm" },
+      { "label": "Power", "value": "52hp" },
+      { "label": "Top speed", "value": "69km/h" },
+      { "label": "Tank capacity", "value": "84l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "67cde801-549a-463c-9d29-2f1653c473f8",
+    "bikeName": "volutpat erat",
+    "bikeSlogan": "semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut",
+    "bikeDesc": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "mainYear": 2006,
+    "price": 1001,
+    "oldPrice": 9525,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "721kg" },
+      { "label": "Dimensions", "value": "5x13x51cm" },
+      { "label": "Power", "value": "26hp" },
+      { "label": "Top speed", "value": "16km/h" },
+      { "label": "Tank capacity", "value": "13l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "e4add7b9-0e1a-47fc-bc8a-f8d1d9aafb7b",
+    "bikeName": "morbi",
+    "bikeSlogan": "id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius",
+    "bikeDesc": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "mainYear": 1997,
+    "price": 2940,
+    "oldPrice": 8050,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "95kg" },
+      { "label": "Dimensions", "value": "39x10x92cm" },
+      { "label": "Power", "value": "80hp" },
+      { "label": "Top speed", "value": "68km/h" },
+      { "label": "Tank capacity", "value": "49l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "8884fade-7688-4c58-af69-40c5755b3313",
+    "bikeName": "augue luctus",
+    "bikeSlogan": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est",
+    "bikeDesc": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "mainYear": 1996,
+    "price": 3706,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "565kg" },
+      { "label": "Dimensions", "value": "90x32x50cm" },
+      { "label": "Power", "value": "44hp" },
+      { "label": "Top speed", "value": "21km/h" },
+      { "label": "Tank capacity", "value": "22l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "f1b1fbc8-1c37-4209-8021-b9974fb6625b",
+    "bikeName": "phasellus id",
+    "bikeSlogan": "augue aliquam erat volutpat in congue etiam justo etiam pretium",
+    "bikeDesc": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 2003,
+    "price": 3203,
+    "oldPrice": 6771,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "144kg" },
+      { "label": "Dimensions", "value": "0x16x48cm" },
+      { "label": "Power", "value": "48hp" },
+      { "label": "Top speed", "value": "56km/h" },
+      { "label": "Tank capacity", "value": "94l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "491ba3da-59fa-4a0c-a660-b84d138a261f",
+    "bikeName": "nulla justo",
+    "bikeSlogan": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum",
+    "bikeDesc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "mainYear": 2006,
+    "price": 1627,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "32kg" },
+      { "label": "Dimensions", "value": "28x52x79cm" },
+      { "label": "Power", "value": "11hp" },
+      { "label": "Top speed", "value": "60km/h" },
+      { "label": "Tank capacity", "value": "6l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "d4f90f91-bc5f-427b-8a55-07f03bf3df92",
+    "bikeName": "et ultrices",
+    "bikeSlogan": "nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec",
+    "bikeDesc": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "mainYear": 2010,
+    "price": 3611,
+    "oldPrice": 8831,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [],
+    "info": [
+      { "label": "Weight", "value": "353kg" },
+      { "label": "Dimensions", "value": "43x12x60cm" },
+      { "label": "Power", "value": "84hp" },
+      { "label": "Top speed", "value": "89km/h" },
+      { "label": "Tank capacity", "value": "16l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "37cdfb3b-7329-4b58-89ec-49b1829d869a",
+    "bikeName": "vel",
+    "bikeSlogan": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse",
+    "bikeDesc": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "mainYear": 2009,
+    "price": 3466,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "516kg" },
+      { "label": "Dimensions", "value": "95x78x24cm" },
+      { "label": "Power", "value": "5hp" },
+      { "label": "Top speed", "value": "60km/h" },
+      { "label": "Tank capacity", "value": "88l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "1ec367ca-c37d-424a-80c5-a87bcc06f606",
+    "bikeName": "odio",
+    "bikeSlogan": "amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
+    "bikeDesc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "mainYear": 1992,
+    "price": 1531,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "5kg" },
+      { "label": "Dimensions", "value": "37x98x55cm" },
+      { "label": "Power", "value": "37hp" },
+      { "label": "Top speed", "value": "52km/h" },
+      { "label": "Tank capacity", "value": "37l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "568a82cc-cb24-44a3-858d-a1a707edc499",
+    "bikeName": "imperdiet sapien urna",
+    "bikeSlogan": "luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",
+    "bikeDesc": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "mainYear": 2012,
+    "price": 2257,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "128kg" },
+      { "label": "Dimensions", "value": "72x67x16cm" },
+      { "label": "Power", "value": "82hp" },
+      { "label": "Top speed", "value": "95km/h" },
+      { "label": "Tank capacity", "value": "61l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "51726966-89f1-4672-9564-7e2b4640120c",
+    "bikeName": "sollicitudin ut",
+    "bikeSlogan": "diam in magna bibendum imperdiet nullam orci pede venenatis non",
+    "bikeDesc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "mainYear": 1993,
+    "price": 3386,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "488kg" },
+      { "label": "Dimensions", "value": "26x39x75cm" },
+      { "label": "Power", "value": "39hp" },
+      { "label": "Top speed", "value": "80km/h" },
+      { "label": "Tank capacity", "value": "45l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "ae557fbf-4f0a-499e-be51-c1531976b1f7",
+    "bikeName": "pulvinar lobortis",
+    "bikeSlogan": "sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
+    "bikeDesc": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "mainYear": 2007,
+    "price": 2196,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "730kg" },
+      { "label": "Dimensions", "value": "3x51x73cm" },
+      { "label": "Power", "value": "28hp" },
+      { "label": "Top speed", "value": "50km/h" },
+      { "label": "Tank capacity", "value": "7l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "137ea801-4b18-47b7-94b5-4c252ff9fa3a",
+    "bikeName": "diam nam",
+    "bikeSlogan": "enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue",
+    "bikeDesc": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 2010,
+    "price": 1272,
+    "oldPrice": 6699,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "491kg" },
+      { "label": "Dimensions", "value": "78x52x16cm" },
+      { "label": "Power", "value": "0hp" },
+      { "label": "Top speed", "value": "91km/h" },
+      { "label": "Tank capacity", "value": "40l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "b295e672-ceb1-4c74-ac26-f88ec34914fa",
+    "bikeName": "sapien",
+    "bikeSlogan": "egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero",
+    "bikeDesc": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "mainYear": 2005,
+    "price": 1317,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "47kg" },
+      { "label": "Dimensions", "value": "9x17x32cm" },
+      { "label": "Power", "value": "87hp" },
+      { "label": "Top speed", "value": "48km/h" },
+      { "label": "Tank capacity", "value": "74l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "121a7fb0-2d00-47db-bc1a-6875a79ea39b",
+    "bikeName": "hac habitasse platea",
+    "bikeSlogan": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",
+    "bikeDesc": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainYear": 2012,
+    "price": 1003,
+    "oldPrice": 5332,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "383kg" },
+      { "label": "Dimensions", "value": "18x39x32cm" },
+      { "label": "Power", "value": "81hp" },
+      { "label": "Top speed", "value": "56km/h" },
+      { "label": "Tank capacity", "value": "72l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "b6d0b86b-3308-4bfa-9c6e-b1fae668ff8b",
+    "bikeName": "amet consectetuer adipiscing",
+    "bikeSlogan": "euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis",
+    "bikeDesc": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "mainYear": 2001,
+    "price": 3564,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "235kg" },
+      { "label": "Dimensions", "value": "9x48x40cm" },
+      { "label": "Power", "value": "72hp" },
+      { "label": "Top speed", "value": "91km/h" },
+      { "label": "Tank capacity", "value": "51l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "5e7a6888-a9a5-4afd-a6db-f26a5cbb8719",
+    "bikeName": "sapien iaculis",
+    "bikeSlogan": "quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin",
+    "bikeDesc": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "mainYear": 1997,
+    "price": 2402,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "539kg" },
+      { "label": "Dimensions", "value": "35x11x66cm" },
+      { "label": "Power", "value": "66hp" },
+      { "label": "Top speed", "value": "61km/h" },
+      { "label": "Tank capacity", "value": "13l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "57622cd6-cc84-45e8-b8ad-123e5b5601fd",
+    "bikeName": "nascetur ridiculus mus",
+    "bikeSlogan": "nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio",
+    "bikeDesc": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "mainYear": 2004,
+    "price": 3435,
+    "oldPrice": 8725,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "630kg" },
+      { "label": "Dimensions", "value": "1x64x32cm" },
+      { "label": "Power", "value": "46hp" },
+      { "label": "Top speed", "value": "98km/h" },
+      { "label": "Tank capacity", "value": "29l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "92e5e710-a43e-4fb5-b742-90ddd828ba0f",
+    "bikeName": "nonummy integer non",
+    "bikeSlogan": "phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla",
+    "bikeDesc": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "mainYear": 1967,
+    "price": 1632,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "613kg" },
+      { "label": "Dimensions", "value": "47x7x93cm" },
+      { "label": "Power", "value": "48hp" },
+      { "label": "Top speed", "value": "83km/h" },
+      { "label": "Tank capacity", "value": "42l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "fe0c2d5e-683c-447d-8fdd-4d4b0b29d583",
+    "bikeName": "tellus nulla",
+    "bikeSlogan": "lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien",
+    "bikeDesc": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "mainYear": 1992,
+    "price": 3985,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "345kg" },
+      { "label": "Dimensions", "value": "36x7x60cm" },
+      { "label": "Power", "value": "75hp" },
+      { "label": "Top speed", "value": "58km/h" },
+      { "label": "Tank capacity", "value": "86l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "dd18821f-5dc4-402d-a61c-6f1925a27120",
+    "bikeName": "feugiat et eros",
+    "bikeSlogan": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+    "bikeDesc": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "mainYear": 2002,
+    "price": 1622,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "409kg" },
+      { "label": "Dimensions", "value": "10x61x28cm" },
+      { "label": "Power", "value": "60hp" },
+      { "label": "Top speed", "value": "14km/h" },
+      { "label": "Tank capacity", "value": "16l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "4311413f-ec22-4139-9332-73cb5cca0257",
+    "bikeName": "justo eu",
+    "bikeSlogan": "a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut",
+    "bikeDesc": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "mainYear": 2003,
+    "price": 2142,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "103kg" },
+      { "label": "Dimensions", "value": "51x41x58cm" },
+      { "label": "Power", "value": "40hp" },
+      { "label": "Top speed", "value": "45km/h" },
+      { "label": "Tank capacity", "value": "23l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "32c7e8c3-04cc-4b3f-88c7-021c559f9859",
+    "bikeName": "maecenas tincidunt",
+    "bikeSlogan": "duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque",
+    "bikeDesc": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 1978,
+    "price": 2183,
+    "oldPrice": 5185,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "375kg" },
+      { "label": "Dimensions", "value": "81x97x17cm" },
+      { "label": "Power", "value": "4hp" },
+      { "label": "Top speed", "value": "82km/h" },
+      { "label": "Tank capacity", "value": "91l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "20f7284f-9f2f-4836-a26e-e024b82cc2e4",
+    "bikeName": "aliquam non mauris",
+    "bikeSlogan": "vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at",
+    "bikeDesc": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "mainYear": 2005,
+    "price": 2159,
+    "oldPrice": 9820,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "183kg" },
+      { "label": "Dimensions", "value": "61x28x62cm" },
+      { "label": "Power", "value": "43hp" },
+      { "label": "Top speed", "value": "32km/h" },
+      { "label": "Tank capacity", "value": "27l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "b84e86eb-9888-4ed0-af4e-da846949583d",
+    "bikeName": "convallis eget eleifend",
+    "bikeSlogan": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat",
+    "bikeDesc": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "mainYear": 1985,
+    "price": 3075,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "704kg" },
+      { "label": "Dimensions", "value": "15x88x9cm" },
+      { "label": "Power", "value": "32hp" },
+      { "label": "Top speed", "value": "94km/h" },
+      { "label": "Tank capacity", "value": "11l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "e9a55f06-581c-474f-ac26-ca543e2086d5",
+    "bikeName": "ligula in lacus",
+    "bikeSlogan": "et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus",
+    "bikeDesc": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "mainYear": 1990,
+    "price": 2553,
+    "oldPrice": 8967,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "223kg" },
+      { "label": "Dimensions", "value": "12x20x35cm" },
+      { "label": "Power", "value": "45hp" },
+      { "label": "Top speed", "value": "60km/h" },
+      { "label": "Tank capacity", "value": "56l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "87c71e11-e2c3-4301-9965-d1eed2d43af0",
+    "bikeName": "proin risus praesent",
+    "bikeSlogan": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales",
+    "bikeDesc": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "mainYear": 1984,
+    "price": 2510,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "265kg" },
+      { "label": "Dimensions", "value": "78x7x34cm" },
+      { "label": "Power", "value": "75hp" },
+      { "label": "Top speed", "value": "3km/h" },
+      { "label": "Tank capacity", "value": "12l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "29b86d56-29db-49c3-b4fe-399c98457823",
+    "bikeName": "nulla sed",
+    "bikeSlogan": "ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante",
+    "bikeDesc": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "mainYear": 2008,
+    "price": 1275,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "96kg" },
+      { "label": "Dimensions", "value": "82x65x52cm" },
+      { "label": "Power", "value": "24hp" },
+      { "label": "Top speed", "value": "2km/h" },
+      { "label": "Tank capacity", "value": "60l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "a7fe0aee-2d72-4c6b-9b4f-595ab79cc961",
+    "bikeName": "sociis natoque penatibus",
+    "bikeSlogan": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed",
+    "bikeDesc": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "mainYear": 2005,
+    "price": 1108,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "651kg" },
+      { "label": "Dimensions", "value": "20x22x41cm" },
+      { "label": "Power", "value": "33hp" },
+      { "label": "Top speed", "value": "73km/h" },
+      { "label": "Tank capacity", "value": "56l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "ad036280-fea6-4267-bfd1-404df601bb5b",
+    "bikeName": "luctus",
+    "bikeSlogan": "integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum",
+    "bikeDesc": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "mainYear": 2009,
+    "price": 1851,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "31kg" },
+      { "label": "Dimensions", "value": "29x23x80cm" },
+      { "label": "Power", "value": "55hp" },
+      { "label": "Top speed", "value": "8km/h" },
+      { "label": "Tank capacity", "value": "38l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "a2d8a8b1-d693-4539-8b89-f82390eafc21",
+    "bikeName": "justo",
+    "bikeSlogan": "eget eleifend luctus ultricies eu nibh quisque id justo sit amet",
+    "bikeDesc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "mainYear": 1986,
+    "price": 1493,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "399kg" },
+      { "label": "Dimensions", "value": "8x97x84cm" },
+      { "label": "Power", "value": "61hp" },
+      { "label": "Top speed", "value": "63km/h" },
+      { "label": "Tank capacity", "value": "37l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "9bce41ca-4395-4eb6-8727-ab03f24d4efb",
+    "bikeName": "diam neque vestibulum",
+    "bikeSlogan": "libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas",
+    "bikeDesc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "mainYear": 1992,
+    "price": 3277,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "482kg" },
+      { "label": "Dimensions", "value": "67x43x99cm" },
+      { "label": "Power", "value": "31hp" },
+      { "label": "Top speed", "value": "54km/h" },
+      { "label": "Tank capacity", "value": "41l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "f607829b-c45c-4b33-a9f4-47c398317ad4",
+    "bikeName": "placerat ante nulla",
+    "bikeSlogan": "nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium",
+    "bikeDesc": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "mainYear": 1986,
+    "price": 1249,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "889kg" },
+      { "label": "Dimensions", "value": "40x93x69cm" },
+      { "label": "Power", "value": "14hp" },
+      { "label": "Top speed", "value": "43km/h" },
+      { "label": "Tank capacity", "value": "56l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "191115c0-aab6-4ace-bdde-cca65bec49de",
+    "bikeName": "ante vestibulum ante",
+    "bikeSlogan": "consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",
+    "bikeDesc": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "mainYear": 2007,
+    "price": 1418,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "969kg" },
+      { "label": "Dimensions", "value": "38x49x89cm" },
+      { "label": "Power", "value": "24hp" },
+      { "label": "Top speed", "value": "84km/h" },
+      { "label": "Tank capacity", "value": "63l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "59bd8446-d975-4133-9b8f-af0cbb5534cb",
+    "bikeName": "aenean",
+    "bikeSlogan": "eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "mainYear": 1995,
+    "price": 3918,
+    "oldPrice": 6392,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "552kg" },
+      { "label": "Dimensions", "value": "81x3x5cm" },
+      { "label": "Power", "value": "89hp" },
+      { "label": "Top speed", "value": "72km/h" },
+      { "label": "Tank capacity", "value": "26l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "feb3c4bd-4c0c-4eee-b1cf-31638b4d7e0e",
+    "bikeName": "iaculis congue",
+    "bikeSlogan": "pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
+    "bikeDesc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "mainYear": 2009,
+    "price": 3671,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "260kg" },
+      { "label": "Dimensions", "value": "51x82x79cm" },
+      { "label": "Power", "value": "35hp" },
+      { "label": "Top speed", "value": "41km/h" },
+      { "label": "Tank capacity", "value": "72l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "4658e793-a608-4022-992f-4ffe7dac4caa",
+    "bikeName": "elit sodales",
+    "bikeSlogan": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla",
+    "bikeDesc": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "mainYear": 2011,
+    "price": 1844,
+    "oldPrice": 6776,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "804kg" },
+      { "label": "Dimensions", "value": "28x12x47cm" },
+      { "label": "Power", "value": "60hp" },
+      { "label": "Top speed", "value": "85km/h" },
+      { "label": "Tank capacity", "value": "20l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "53e6e3b4-21bb-48ea-b5a1-6bba4210e53d",
+    "bikeName": "sed magna at",
+    "bikeSlogan": "volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla",
+    "bikeDesc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "mainYear": 1990,
+    "price": 2955,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "819kg" },
+      { "label": "Dimensions", "value": "91x88x43cm" },
+      { "label": "Power", "value": "43hp" },
+      { "label": "Top speed", "value": "34km/h" },
+      { "label": "Tank capacity", "value": "46l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "b07b182e-12ff-42c0-b6f9-e56b7aed2bf7",
+    "bikeName": "rutrum",
+    "bikeSlogan": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+    "bikeDesc": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "mainYear": 2001,
+    "price": 3342,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "799kg" },
+      { "label": "Dimensions", "value": "5x89x32cm" },
+      { "label": "Power", "value": "45hp" },
+      { "label": "Top speed", "value": "7km/h" },
+      { "label": "Tank capacity", "value": "57l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "e5d6bdf5-5050-4164-920f-cef7827063b0",
+    "bikeName": "sem praesent id",
+    "bikeSlogan": "nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim",
+    "bikeDesc": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "mainYear": 2008,
+    "price": 2606,
+    "oldPrice": 8133,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "452kg" },
+      { "label": "Dimensions", "value": "62x65x60cm" },
+      { "label": "Power", "value": "80hp" },
+      { "label": "Top speed", "value": "94km/h" },
+      { "label": "Tank capacity", "value": "37l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "be089f7a-1d87-45cc-b8c7-0c165ea89d40",
+    "bikeName": "orci eget",
+    "bikeSlogan": "lacinia erat vestibulum sed magna at nunc commodo placerat praesent",
+    "bikeDesc": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "mainYear": 2001,
+    "price": 3647,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "416kg" },
+      { "label": "Dimensions", "value": "50x58x16cm" },
+      { "label": "Power", "value": "12hp" },
+      { "label": "Top speed", "value": "77km/h" },
+      { "label": "Tank capacity", "value": "3l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "18f102e3-f5ab-43d4-a8f9-10eeb9b106ab",
+    "bikeName": "felis eu sapien",
+    "bikeSlogan": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis",
+    "bikeDesc": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "mainYear": 2009,
+    "price": 1046,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "985kg" },
+      { "label": "Dimensions", "value": "59x37x57cm" },
+      { "label": "Power", "value": "84hp" },
+      { "label": "Top speed", "value": "4km/h" },
+      { "label": "Tank capacity", "value": "5l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "91868b4c-9db7-4cf0-93b5-aa5d17bbe81a",
+    "bikeName": "aliquam lacus morbi",
+    "bikeSlogan": "blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum",
+    "bikeDesc": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "mainYear": 2009,
+    "price": 2432,
+    "oldPrice": 8421,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": ["https://picsum.photos/1920/1080?random="],
+    "info": [
+      { "label": "Weight", "value": "407kg" },
+      { "label": "Dimensions", "value": "1x13x79cm" },
+      { "label": "Power", "value": "70hp" },
+      { "label": "Top speed", "value": "1km/h" },
+      { "label": "Tank capacity", "value": "34l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "2d6d84ae-6baa-43f0-9e29-9ab81d77ea14",
+    "bikeName": "molestie nibh",
+    "bikeSlogan": "vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget",
+    "bikeDesc": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "mainYear": 2008,
+    "price": 2690,
+    "oldPrice": 7653,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "778kg" },
+      { "label": "Dimensions", "value": "47x78x94cm" },
+      { "label": "Power", "value": "38hp" },
+      { "label": "Top speed", "value": "87km/h" },
+      { "label": "Tank capacity", "value": "14l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "9588c64e-af4d-4876-9439-c37dcaf22372",
+    "bikeName": "pede",
+    "bikeSlogan": "tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+    "bikeDesc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "mainYear": 2008,
+    "price": 2799,
+    "oldPrice": 9616,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "117kg" },
+      { "label": "Dimensions", "value": "51x31x56cm" },
+      { "label": "Power", "value": "16hp" },
+      { "label": "Top speed", "value": "19km/h" },
+      { "label": "Tank capacity", "value": "9l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "789dbe63-7be8-40ca-aa7a-946b2076176a",
+    "bikeName": "tortor duis",
+    "bikeSlogan": "curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer",
+    "bikeDesc": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "mainYear": 1999,
+    "price": 3941,
+    "oldPrice": 9128,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "240kg" },
+      { "label": "Dimensions", "value": "46x86x68cm" },
+      { "label": "Power", "value": "7hp" },
+      { "label": "Top speed", "value": "98km/h" },
+      { "label": "Tank capacity", "value": "89l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "95225679-aa46-433b-a8f7-47058efc6b21",
+    "bikeName": "rutrum nulla nunc",
+    "bikeSlogan": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",
+    "bikeDesc": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainYear": 2000,
+    "price": 2086,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "620kg" },
+      { "label": "Dimensions", "value": "72x67x15cm" },
+      { "label": "Power", "value": "4hp" },
+      { "label": "Top speed", "value": "64km/h" },
+      { "label": "Tank capacity", "value": "84l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "810a0214-dbdf-41bf-ba31-b601f1fbad96",
+    "bikeName": "quis augue luctus",
+    "bikeSlogan": "mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at",
+    "bikeDesc": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "mainYear": 2011,
+    "price": 3600,
+    "oldPrice": 9355,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "683kg" },
+      { "label": "Dimensions", "value": "26x37x60cm" },
+      { "label": "Power", "value": "97hp" },
+      { "label": "Top speed", "value": "46km/h" },
+      { "label": "Tank capacity", "value": "82l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "183aaf57-2b35-4ded-ae6f-175715245991",
+    "bikeName": "ultrices",
+    "bikeSlogan": "mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas",
+    "bikeDesc": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "mainYear": 2002,
+    "price": 2412,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "130kg" },
+      { "label": "Dimensions", "value": "55x4x97cm" },
+      { "label": "Power", "value": "93hp" },
+      { "label": "Top speed", "value": "84km/h" },
+      { "label": "Tank capacity", "value": "82l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "880253ca-bd53-4297-8830-b740e1c844f9",
+    "bikeName": "vel",
+    "bikeSlogan": "dolor morbi vel lectus in quam fringilla rhoncus mauris enim",
+    "bikeDesc": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 2006,
+    "price": 2484,
+    "oldPrice": 5031,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "62kg" },
+      { "label": "Dimensions", "value": "52x67x42cm" },
+      { "label": "Power", "value": "53hp" },
+      { "label": "Top speed", "value": "92km/h" },
+      { "label": "Tank capacity", "value": "84l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "4590abec-99fc-49e8-a662-368459e109c3",
+    "bikeName": "nulla",
+    "bikeSlogan": "proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat",
+    "bikeDesc": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "mainYear": 1999,
+    "price": 3214,
+    "oldPrice": 8509,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "208kg" },
+      { "label": "Dimensions", "value": "55x75x0cm" },
+      { "label": "Power", "value": "53hp" },
+      { "label": "Top speed", "value": "39km/h" },
+      { "label": "Tank capacity", "value": "57l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "04f37a77-4a11-49f0-ad7a-c2bc0fe7fc5c",
+    "bikeName": "vestibulum vestibulum ante",
+    "bikeSlogan": "tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+    "bikeDesc": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "mainYear": 2010,
+    "price": 3098,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "162kg" },
+      { "label": "Dimensions", "value": "63x93x23cm" },
+      { "label": "Power", "value": "40hp" },
+      { "label": "Top speed", "value": "76km/h" },
+      { "label": "Tank capacity", "value": "18l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "50ab5d17-5bf9-4ea5-aa5f-9b56d7e187b0",
+    "bikeName": "neque",
+    "bikeSlogan": "suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "mainYear": 2009,
+    "price": 3144,
+    "oldPrice": 7333,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "824kg" },
+      { "label": "Dimensions", "value": "22x62x49cm" },
+      { "label": "Power", "value": "85hp" },
+      { "label": "Top speed", "value": "39km/h" },
+      { "label": "Tank capacity", "value": "45l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "d72471df-721e-4800-9e74-50381198be04",
+    "bikeName": "eleifend pede libero",
+    "bikeSlogan": "sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",
+    "bikeDesc": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "mainYear": 2008,
+    "price": 3579,
+    "oldPrice": null,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "521kg" },
+      { "label": "Dimensions", "value": "18x98x85cm" },
+      { "label": "Power", "value": "55hp" },
+      { "label": "Top speed", "value": "73km/h" },
+      { "label": "Tank capacity", "value": "48l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "ae2a9917-f387-4845-9ae0-c1b72ff92d29",
+    "bikeName": "libero",
+    "bikeSlogan": "elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy",
+    "bikeDesc": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "mainYear": 2004,
+    "price": 3463,
+    "oldPrice": 6813,
+    "category": "sport",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "229kg" },
+      { "label": "Dimensions", "value": "36x83x27cm" },
+      { "label": "Power", "value": "51hp" },
+      { "label": "Top speed", "value": "7km/h" },
+      { "label": "Tank capacity", "value": "66l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "07022744-39a4-4d2e-b688-4f6c50f36e7f",
+    "bikeName": "pellentesque volutpat dui",
+    "bikeSlogan": "venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem",
+    "bikeDesc": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "mainYear": 2005,
+    "price": 3734,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "212kg" },
+      { "label": "Dimensions", "value": "1x11x45cm" },
+      { "label": "Power", "value": "73hp" },
+      { "label": "Top speed", "value": "1km/h" },
+      { "label": "Tank capacity", "value": "72l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "145d0202-fdd2-4fe3-9d97-4e6b5bd75fec",
+    "bikeName": "justo pellentesque",
+    "bikeSlogan": "adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu",
+    "bikeDesc": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "mainYear": 1994,
+    "price": 3397,
+    "oldPrice": 8187,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "253kg" },
+      { "label": "Dimensions", "value": "54x75x29cm" },
+      { "label": "Power", "value": "83hp" },
+      { "label": "Top speed", "value": "60km/h" },
+      { "label": "Tank capacity", "value": "85l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "78fb9b21-3fca-485c-92d2-c90b76046723",
+    "bikeName": "orci luctus",
+    "bikeSlogan": "mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",
+    "bikeDesc": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "mainYear": 2006,
+    "price": 3549,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "66kg" },
+      { "label": "Dimensions", "value": "86x27x57cm" },
+      { "label": "Power", "value": "41hp" },
+      { "label": "Top speed", "value": "75km/h" },
+      { "label": "Tank capacity", "value": "17l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "dae9eee0-3460-4bbe-b075-061826c71cb0",
+    "bikeName": "aliquet",
+    "bikeSlogan": "hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget",
+    "bikeDesc": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "mainYear": 2008,
+    "price": 2425,
+    "oldPrice": null,
+    "category": "terrain",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "746kg" },
+      { "label": "Dimensions", "value": "41x10x59cm" },
+      { "label": "Power", "value": "35hp" },
+      { "label": "Top speed", "value": "72km/h" },
+      { "label": "Tank capacity", "value": "89l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "8ec0a340-c568-4711-8708-c560c378a12b",
+    "bikeName": "dolor morbi vel",
+    "bikeSlogan": "dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla",
+    "bikeDesc": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "mainYear": 2007,
+    "price": 1893,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "666kg" },
+      { "label": "Dimensions", "value": "25x26x69cm" },
+      { "label": "Power", "value": "97hp" },
+      { "label": "Top speed", "value": "43km/h" },
+      { "label": "Tank capacity", "value": "29l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "76bdfd81-c2da-4282-8afb-fac7556916d6",
+    "bikeName": "in hac habitasse",
+    "bikeSlogan": "eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem",
+    "bikeDesc": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "mainYear": 1993,
+    "price": 1299,
+    "oldPrice": null,
+    "category": "motocross",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "842kg" },
+      { "label": "Dimensions", "value": "11x61x81cm" },
+      { "label": "Power", "value": "23hp" },
+      { "label": "Top speed", "value": "66km/h" },
+      { "label": "Tank capacity", "value": "89l" }
+    ],
+    "brand": "first"
+  },
+  {
+    "id": "6dd0b248-f008-4295-ae29-e62168e4110c",
+    "bikeName": "ultrices",
+    "bikeSlogan": "in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc",
+    "bikeDesc": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "mainYear": 2008,
+    "price": 1689,
+    "oldPrice": null,
+    "category": "city",
+    "image": "https://picsum.photos/1920/1080?random=",
+    "gallery": [
+      "https://picsum.photos/1920/1080?random=",
+      "https://picsum.photos/1920/1080?random="
+    ],
+    "info": [
+      { "label": "Weight", "value": "889kg" },
+      { "label": "Dimensions", "value": "57x51x58cm" },
+      { "label": "Power", "value": "49hp" },
+      { "label": "Top speed", "value": "56km/h" },
+      { "label": "Tank capacity", "value": "79l" }
+    ],
+    "brand": "first"
+  }
+]

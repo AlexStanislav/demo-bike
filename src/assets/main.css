@@ -1,0 +1,64 @@
+@import './base.css';
+
+
+.logo {
+    width: 200px;
+    height: 50px;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0.25em 0;
+    color: var(--main);
+}
+
+.p-carousel-indicator-list {
+    top: -5em !important;
+    position: relative;
+    z-index: 10;
+}
+
+.p-menubar-item-label {
+    color: #fff;
+}
+
+.filters__price .p-inputnumber-input {
+    width: 40%;
+}
+
+.filters .p-radiobutton-checked .p-radiobutton-box {
+    border-color: var(--main);
+    background-color: var(--main);
+    border-radius: 0;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 10% 50%, 0% 0%);
+}
+
+.filters .p-radiobutton-checked .p-radiobutton-icon {
+    border-radius: 0;
+    background: var(--main) !important;
+}
+
+.filters .p-radiobutton-box {
+    border-radius: 0;
+    border: none;
+    background-color: #cecece;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 10% 50%, 0% 0%);
+}
+
+.news__header .p-select-label {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+.desktop-header__search .p-autocomlete {
+    width: 80% !important;
+}
+
+.desktop-header__search .p-autocomplete-input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #fff;
+}
+
+.desktop-header__search .p-inputtext::placeholder {
+    color: #fff;
+}

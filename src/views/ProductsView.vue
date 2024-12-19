@@ -242,7 +242,8 @@ watch(productID, () => {
     justify-content: center;
 }
 
-@media screen and (max-width: 414px) and (orientation: portrait) {
+@media screen and (max-width: 414px) and (orientation: portrait),
+screen and (max-height: 414px) and (orientation: landscape) {
     .products {
         flex-direction: column;
         align-items: center;

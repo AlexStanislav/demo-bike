@@ -146,7 +146,8 @@ onMounted(() => {
     margin-top: 1em;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 414px),
+screen and (max-height: 414px) {
     .contact {
         flex-direction: column;
         gap: 1em;
@@ -159,6 +160,12 @@ onMounted(() => {
 
     .right {
         margin-bottom: 1em;
+    }
+}
+
+@media screen and (max-height: 414px) {
+    .left {
+        height: fit-content;
     }
 }
 </style>

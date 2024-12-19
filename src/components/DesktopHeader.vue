@@ -240,7 +240,8 @@ const submenuItems = ref([
     border-left: 1px solid #fff;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 414px),
+screen and (max-height: 414px) and (orientation: landscape) {
     .desktop-header {
         display: none;
     }

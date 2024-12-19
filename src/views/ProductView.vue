@@ -243,7 +243,8 @@ const productImage = computed(() => {
     padding-bottom: 3em;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 414px),
+screen and (max-height: 414px) {
     .product__wrapper {
         flex-direction: column;
         top: 0;

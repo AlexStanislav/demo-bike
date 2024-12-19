@@ -1,6 +1,6 @@
 # demo-bike
 
-This template should help get you started developing with Vue 3 in Vite.
+A demo bike website made with [PrimeVue](https://primevue.org/) and [Vite](https://vitejs.dev/).
 
 ## Recommended IDE Setup
 

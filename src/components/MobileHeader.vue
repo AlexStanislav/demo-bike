@@ -8,7 +8,8 @@
         <Drawer header="Menu" v-model:visible="menuIsVisible">
             <div class="mobile-header__search">
                 <InputGroup>
-                    <InputText placeholder="Search" />
+                    <Autocomplete placeholder="Search" :suggestions="searchSuggestions" optionLabel="bikeName"
+                        @complete="search" @option-select="selectBike" />
                     <InputGroupAddon> <i class="pi pi-search"></i> </InputGroupAddon>
                 </InputGroup>
             </div>
@@ -25,12 +26,30 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import Drawer from 'primevue/drawer';
-import InputText from 'primevue/inputtext';
+import Autocomplete from 'primevue/autocomplete';
 import InputGroup from 'primevue/inputgroup';
 import InputGroupAddon from 'primevue/inputgroupaddon';
 
+import router from '@/router';
+import { useAppStore } from '@/stores/app';
+import { flattenBikes } from '@/utlis';
 
+const store = useAppStore();
 const menuIsVisible = ref(false);
+
+function search(event: { query: string }) {
+    const allBikes = flattenBikes(store.allBikes);
+    searchSuggestions.value = allBikes.filter((bike) => {
+        return bike.bikeName.toLowerCase().includes(event.query.toLowerCase())
+    })
+}
+
+function selectBike(event: { value: Bike }) {
+    router.push({ name: 'product', params: { id: event.value.id, brand: event.value.brand } })
+    menuIsVisible.value = false
+}
+
+const searchSuggestions = ref<object[]>([]);
 
 </script>
 <style scoped>
@@ -73,7 +92,8 @@ const menuIsVisible = ref(false);
     font-size: 1.2em;
 }
 
-@media screen and (max-width: 414px) and (orientation: portrait) {
+@media screen and (max-width: 414px) and (orientation: portrait),
+screen and (max-height: 414px) and (orientation: landscape) {
     .mobile-header {
         display: flex;
     }

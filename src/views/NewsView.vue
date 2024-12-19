@@ -116,7 +116,8 @@ watch([titleFilter], () => {
     padding: 2em 0;
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 414px),
+screen and (max-height: 414px) {
     .news {
         width: 90%;
     }

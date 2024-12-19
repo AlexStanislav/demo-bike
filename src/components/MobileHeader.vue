@@ -33,6 +33,7 @@ import InputGroupAddon from 'primevue/inputgroupaddon';
 import router from '@/router';
 import { useAppStore } from '@/stores/app';
 import { flattenBikes } from '@/utlis';
+import type { Bike } from '@/types';
 
 const store = useAppStore();
 const menuIsVisible = ref(false);

@@ -4,7 +4,7 @@ import { defineStore } from 'pinia'
 export const useAppStore = defineStore('app', () => {
   const allBikes = ref<Record<string, object[]>>({})
 
-  const screenLoaderIsVisible = ref(true)
+  const screenLoaderIsVisible = ref(false)
 
   function getAllBikes() {
     const files = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth']

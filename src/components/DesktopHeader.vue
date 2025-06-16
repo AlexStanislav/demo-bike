@@ -7,7 +7,7 @@
             <div class="desktop-header__nav-wrapper">
                 <div class="desktop-header__nav-background"></div>
             </div>
-            <ul class="desktop-header__nav-list" @mouseleave="menuIsVisible = false">
+            <ul class="desktop-header__nav-list">
                 <li @mouseover="menuIsVisible = false"><router-link to="/">Home</router-link></li>
                 <li @mouseover="menuIsVisible = true">
                     <router-link to="/products/0">Products</router-link>
@@ -58,7 +58,7 @@ const store = useAppStore();
 
 const searchValue = ref('');
 
-const menuIsVisible = ref(false);
+const menuIsVisible = ref(true);
 const searchSuggestions = ref<object[]>([]);
 
 
@@ -155,6 +155,7 @@ const submenuItems = ref([
     height: fit-content;
     background-color: var(--main);
     z-index: 1;
+    padding: 1em 0 0 0;
 }
 
 .nav-submenu__list {
@@ -205,6 +206,7 @@ const submenuItems = ref([
 
 .desktop-header--scrolled {
     width: 100%;
+    height: 50px;
     background-color: var(--main);
     margin: 0;
     justify-content: center;
@@ -218,9 +220,16 @@ const submenuItems = ref([
 
 .desktop-header--scrolled .desktop-header__nav {
     width: 75%;
+    height: 100%;
     border-bottom: none;
     filter: none;
     margin: 0;
+}
+
+.desktop-header--scrolled .desktop-header__nav-list {
+    margin: 0;
+    height: 100%;
+    align-items: center;
 }
 
 .desktop-header--scrolled .logo {
@@ -234,10 +243,16 @@ const submenuItems = ref([
 }
 
 .desktop-header--scrolled .desktop-header__search {
+    width: 15%;
     filter: none;
     position: absolute;
     right: 1em;
-    border-left: 1px solid #fff;
+    height: 100%;
+    border-left: 2px solid var(--secondary);
+}
+
+.desktop-header--scrolled .desktop-header__search .pi {
+    font-size: 1.2em;
 }
 
 @media screen and (max-width: 414px),

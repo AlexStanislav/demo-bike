@@ -85,7 +85,9 @@ const productID = computed(() => {
 
 
 const productBrands = computed(() => {
-    return Object.keys(store.allBikes)
+    // const brands = Object.keys(store.allBikes)
+    const brands = ["first", "second", "third", "fourth", "fifth", "sixth"]
+    return brands;
 })
 
 const priceLimits = computed(() => {

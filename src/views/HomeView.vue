@@ -132,8 +132,10 @@ const discountedBikes = computed(() => {
 const newsArticles = ref<NewsArticle[]>([])
 
 const discountedBikesBrand = computed(() => {
-  const discountedBikes = getDiscountedBikes()
-  return [... new Set(discountedBikes.map((bike) => bike.brand))]
+  // const discountedBikes = getDiscountedBikes()
+  // const brands = [... new Set(discountedBikes.map((bike) => bike.brand))]
+  const brands = ["first", "second", "third", "fourth", "fifth", "sixth"]
+  return brands;
 })
 
 onMounted(() => {

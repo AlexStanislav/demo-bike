@@ -58,7 +58,7 @@ const store = useAppStore();
 
 const searchValue = ref('');
 
-const menuIsVisible = ref(true);
+const menuIsVisible = ref(false);
 const searchSuggestions = ref<object[]>([]);
 
 

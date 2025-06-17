@@ -15,8 +15,7 @@
                 {{ article?.created_at }}
             </h5>
             <Skeleton v-if="!article" width="100%" height="50vh"></Skeleton>
-            <p class="news__content" v-for="(content, index) in articleContent" :key="index" v-html="content">
-            </p>
+            <p class="news__content" v-for="(content, index) in articleContent" :key="index" v-html="content"></p>
         </article>
     </section>
 </template>

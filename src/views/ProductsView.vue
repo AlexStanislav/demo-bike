@@ -176,6 +176,7 @@ watch(productID, () => {
 
 .filters {
     width: 15%;
+    min-height: 50vh;
     position: relative;
 }
 

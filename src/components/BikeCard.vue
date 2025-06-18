@@ -5,7 +5,7 @@
         </div>
         <div class="bike-card__img-container">
             <ProgressSpinner style="width: 100%; height: 100%; position: absolute; z-index: -1" />
-            <img class="bike-card__img" :src="`${bike.image}${bike.id}`" alt="">
+            <img class="bike-card__img" :src="`/images/${bike.image}`" alt="">
         </div>
         <p class="bike-card__call-to-action">See more</p>
         <div class="bike-card__info">

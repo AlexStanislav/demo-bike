@@ -89,7 +89,6 @@ const store = useAppStore();
 useEventListener(window, 'scroll', () => {
   if (window.scrollY > 0) {
     document.querySelector('.desktop-header')?.classList.add('desktop-header--scrolled');
-    console.log('scrolled');
   } else {
     document.querySelector('.desktop-header')?.classList.remove('desktop-header--scrolled');
   }
@@ -97,7 +96,9 @@ useEventListener(window, 'scroll', () => {
 
 const brandFilter = ref('first')
 const displayedDiscountedBikes = computed(() => {
-  return discountedBikes.value.filter((bike) => bike.brand === brandFilter.value)
+  return discountedBikes.value.filter((bike) => {
+    return bike.brand === brandFilter.value
+  })
 })
 
 const carouselValues = [
@@ -177,8 +178,8 @@ function getDiscountedBikes(): Bike[] {
   const discountedBikes = [] as Bike[]
   allBikes.value.forEach((bike) => {
     if (bike.oldPrice) {
-      const discount = Math.abs(Math.round(((bike.oldPrice - bike.price) / bike.oldPrice) * 100)).toFixed(0)
-      if (discount >= '80') {
+      const discount = parseInt(Math.abs(Math.round(((bike.oldPrice - bike.price) / bike.oldPrice) * 100)).toFixed(0))
+      if (discount <= 80) {
         discountedBikes.push(bike)
       }
     }

@@ -7,7 +7,7 @@
             <div class="desktop-header__nav-wrapper">
                 <div class="desktop-header__nav-background"></div>
             </div>
-            <ul class="desktop-header__nav-list">
+            <ul class="desktop-header__nav-list" @mouseleave="menuIsVisible = false">
                 <li @mouseover="menuIsVisible = false"><router-link to="/">Home</router-link></li>
                 <li @mouseover="menuIsVisible = true">
                     <router-link to="/products/0">Products</router-link>

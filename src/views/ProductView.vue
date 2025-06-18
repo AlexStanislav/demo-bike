@@ -4,10 +4,10 @@
             <section class="left">
                 <img class="product__img" :src="productImage" :alt="productData.bikeName">
                 <div class="product__gallery">
-                    <img class="product__gallery-img" :src="productData.image + productData.id"
-                        @click="imageIndex = -1">
+                    <img class="product__gallery-img" :src="`/public/images/${productData.image}`"
+                        @click="selectImage(-1)">
                     <img class="product__gallery-img" v-for="(image, index) in productData.gallery" :key="index"
-                        :src="`${image}${index}`" @click="imageIndex = index">
+                        :src="`${image}${index}`" @click="selectImage(index)" :alt="index">
                 </div>
             </section>
             <section class="right">
@@ -56,7 +56,6 @@ const discount = computed(() => {
     return Math.abs(Math.round(((productData.value.oldPrice - productData.value.price) / productData.value.oldPrice) * 100)).toFixed(0)
 })
 
-
 const infoIcons: { [key: string]: IconDefinition } = {
     "Weight": faWeightHanging,
     "Power": faBolt,
@@ -68,22 +67,27 @@ const infoIcons: { [key: string]: IconDefinition } = {
 const store = useAppStore();
 const route = useRoute();
 
-const imageIndex = ref(-1)
-
-const similarBikes = computed(() => {
-    return (store.allBikes[`${route.params.brand}`] as Bike[]).filter((bike) => bike.category === productData.value.category).slice(0, 6)
-})
-
 onMounted(() => {
     document.querySelector('.desktop-header')?.classList.add('desktop-header--scrolled');
 })
+
+function selectImage(index: number) {
+    if (index === -1) {
+        productImage.value = `/images/${productData.value.image}`
+    } else {
+        productImage.value = `${productData.value.gallery[index]}${index}`
+    }
+}
+
 
 const productData = computed(() => {
     return (store.allBikes[`${route.params.brand}`] as Bike[]).filter((bike) => bike.id === route.params.id)[0]
 })
 
-const productImage = computed(() => {
-    return imageIndex.value > -1 ? productData.value.image + imageIndex.value : productData.value.image + productData.value.id
+const productImage = ref(`/images/${productData.value.image}`);
+
+const similarBikes = computed(() => {
+    return (store.allBikes[`${route.params.brand}`] as Bike[]).filter((bike) => bike.category === productData.value.category).slice(0, 6)
 })
 
 </script>
@@ -204,8 +208,8 @@ const productImage = computed(() => {
 }
 
 .product__discount {
-    background-color: var(--main);
-    color: #fff;
+    background-color: var(--secondary);
+    color: var(--main);
     padding: 0.5em 2em;
     clip-path: polygon(100% 0%, 100% 100%, 10% 100%, 0% 50%, 10% 0%);
 }
@@ -239,6 +243,7 @@ const productImage = computed(() => {
 .product__similar {
     width: 100%;
     display: flex;
+    justify-content: space-around;
     gap: 1em;
     padding-bottom: 3em;
 }

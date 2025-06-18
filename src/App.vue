@@ -51,8 +51,7 @@
       </p>
     </section>
     <div class="footer__bottom">
-      <p>&copy; Copyright 2024</p>
-      <p>Powered by Vue 3</p>
+      All copyrights belong to their respective owners.
     </div>
   </footer>
   <ScrollTop />
@@ -90,7 +89,7 @@ onMounted(() => {
 .footer {
   width: 100%;
   min-height: 30vh;
-  padding: 10em;
+  padding: 5em 10em;
   background-color: var(--main);
   display: flex;
   justify-content: space-between;
@@ -144,12 +143,13 @@ onMounted(() => {
   width: 80%;
   display: flex;
   justify-content: center;
+  padding-bottom: 0.25em;
   gap: 1em;
   bottom: 2em;
   left: 10%;
   border-bottom: 1px solid #fff;
   color: #fff;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 @media screen and (max-width: 414px) and (orientation: portrait) {
